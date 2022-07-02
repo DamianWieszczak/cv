@@ -1,3 +1,3 @@
 # cv
 
-Simple HTML only resume as preparation before using CSS in your next projects.
+Simple HTML only resume as preparation before using CSS in future projects.
